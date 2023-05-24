@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, JavaScript, Python and Web Design Technologies.
 - 🌱 I’m currently learning Java, Pyton.
 - 💞️ I’m looking to collaborate on Java and Python projects.
-- 📫 How to reach me almamybangoura@gmail.com
+- 📫 How to reach me albangoura@aol.com
 
 <!---
 ABangoura/ABangoura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
