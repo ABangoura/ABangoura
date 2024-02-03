@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ABangoura
-- 👀 I’m interested in Java, JavaScript, Python and Web Design Technologies.
+- 👀 I’m interested in Java, JavaScript, Python and Web Development Technologies.
 - 🌱 I’m currently learning Java, Pyton.
 - 💞️ I’m looking to collaborate on Java and Python projects.
 - 📫 How to reach me albangoura@aol.com
